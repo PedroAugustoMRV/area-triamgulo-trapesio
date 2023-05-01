@@ -1,23 +1,23 @@
 import java.util.Scanner;
 
 //instrução1
-	//Pergunta ao usuario o 1 Base Maior do triangulo
+//Pergunta ao usuario o 1 Base Maior do triangulo
 //instrução2
-	//Guardar o valor da Base Maior do triangulo
+//Guardar o valor da Base Maior do triangulo
 //instrução3
-	//Pergunta ao usuario a Base Menor do triangulo
+//Pergunta ao usuario a Base Menor do triangulo
 //instrução4
-	//Guarda o valor da altura do triangulo
+//Guarda o valor da altura do triangulo
 //instrução5
-	//Fazer a multiplicação da Base pela Altura
+//Fazer a multiplicação da Base pela Altura
 //instrução6
-	//Fazer a divisao da multiplicação por 2 para obiter a areas 
+//Fazer a divisao da multiplicação por 2 para obiter a areas 
 //instrução7
-	//Guarda o resula da divisao
+//Guarda o resula da divisao
 //intrução8
-	//Exibir para o usuario o valor da area do triangulo
+//Exibir para o usuario o valor da area do triangulo
 //introdução9
-	//Finalizar o codigo
+//Finalizar o codigo
 //...
 
 class CalculoAreaTrianguloTrapezio {
